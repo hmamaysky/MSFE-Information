@@ -5,6 +5,8 @@ Entering students to Columbia Business School's MSFE program should have:
   * if this isn't where your coding skills are, see below for some course suggestions that you should take prior to arriving at CBS
 * Math knowledge commensurate with the notes in the `math/` folder
   * these are the notes from the 2021 math bootcamp taught by one of our PhD students Naz Koont
+  * the math bootcamp only has time to introduce these concepts, and does not go into detailed proofs or derivations
+  * if (some or all of) this material feels foreign to you, that's okay, but try to study up before you get here
 
 ## Coding classes
 If your coding skills are not in line with the above description, consider taking the following course (which consists of 4 modules) prior to your arrival: https://www.datacamp.com/courses/intro-to-python-for-data-science
