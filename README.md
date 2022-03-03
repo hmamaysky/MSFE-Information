@@ -16,7 +16,7 @@ If your coding skills are not in line with the above description, consider takin
 
 ## Bootcamp
 When you arrive at CBS, you will take the following five bootcamp courses
-* While the math and Python are optional if you feel you have enough background, I strongly advise you to take them anyway -- it's just a few hours of your time, and you may learn more than you think you will
+* While the math and Python sessions are optional if you feel you have enough background, I strongly advise you to take them anyway -- it's just a few hours of your time, and you may learn more than you think you will
 
 Bootcamp courses:
 * Accounting (20 hours)
