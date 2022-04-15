@@ -9,7 +9,11 @@ Entering students to Columbia Business School's MSFE program should have:
   * if (some or all of) this material feels foreign to you, that's okay, but try to study up before you get here
 
 ## Coding classes
-If your coding skills are not in line with the above description, consider taking the following course (which consists of 4 modules) prior to your arrival: https://www.datacamp.com/courses/intro-to-python-for-data-science
+If your coding skills are not in line with the above description, consider taking the following courses (which consists of 4 modules) prior to your arrival:
+* Python basics: https://www.datacamp.com/courses/intro-to-python-for-data-science
+* Python for data science: https://www.datacamp.com/courses/introduction-to-data-science-in-python
+
+Additional information:
 * You will be able to access this via CBS sometime in early June (contact Dan Spacher to get login information)
 * You can also take other intro Python or R courses that are close to (or above) this in coverage
 * At the margin, you are probably better off learning Python, though both languages are excellent for the work you'll do in the MSFE (and knowing one well will make it much easier to learn the other)
