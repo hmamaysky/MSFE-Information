@@ -10,7 +10,7 @@ Entering students to Columbia Business School's Master of Science in Financial E
 
 ## Math skills
 The MSFE program is math intensive. At the very least, incoming students should be familiar with
-* Multivariate calculus
+* Multivariable calculus
 * Linear algebra
 
 Your understanding of these subjects should be at the level of an undergraduate course. If you are concerned that you do not have sufficient knowledge in one of these areas, please reach out to us so we can design a study plan for you before you arrive on campus.
@@ -18,6 +18,7 @@ Your understanding of these subjects should be at the level of an undergraduate 
 Other math background that will be useful (though is not required):
 * Real analysis
 * Probability theory
+* Ordinary and partial differential equations
 
 ## Coding classes
 If your coding skills are not in line with the above description, consider taking the following courses (which consists of 4 modules) prior to your arrival:
