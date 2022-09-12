@@ -8,6 +8,14 @@ Entering students to Columbia Business School's Master of Science in Financial E
   * the math bootcamp only has time to introduce these concepts, and does not go into detailed proofs or derivations
   * if some or all of this material feels foreign to you, that's okay, but try to study up before you get here
 
+## Math skills
+The MSFE program is math intensive. At the very least, incoming students should be familiar with
+* Multivariate calculus
+* Linear algebra
+Your understanding of these subjects should be at the level of an undergraduate course. If you are concerned that you do not have sufficient knowledge in one of these areas, please reach out to us so we can design a study plan for you before you arrive on campus. Other math background that will be useful (though is not required):
+* Real analysis
+* Probability theory
+
 ## Coding classes
 If your coding skills are not in line with the above description, consider taking the following courses (which consists of 4 modules) prior to your arrival:
 * Python basics: https://www.datacamp.com/courses/intro-to-python-for-data-science
