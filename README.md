@@ -40,3 +40,10 @@ Bootcamp courses:
 * Capital markets and investments (15 hours)
 * Python programming (12 hours)
 * Math (10 hours)
+
+## Intreview prep
+Pretty soon after arriving to campus, you will start to interview for summer internships. In addition to shoring up your coding and math skills, we recommend that:
+* You keep on top of financial and economic news to demonstrate to employers that you know what is going on in the world. Two useful sources are the _Financial Times_ and the _Wall Street Journal_.
+* In addition, you will be asked some technical questions in the early round of your interviews. Some of these will involved coding and math. There are two useful books that will give you a sense of what to expect:
+  * _150 Most Frequently Asked Questions on Quant Interviews_, Dan Stefanica et al.: https://www.amazon.com/Frequently-Questions-Interviews-Second-Pocket/dp/097975769X
+  * _A Practical Guide To Quantitative Finance Interviews_, Xinfeng Zhou: https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662
