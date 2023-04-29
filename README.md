@@ -31,15 +31,15 @@ Additional information:
 * At the margin, you are probably better off learning Python, though both languages are excellent for the work you'll do in the MSFE (and knowing one well will make it much easier to learn the other)
 
 ## Bootcamp
-When you arrive at CBS, you will take the following five bootcamp courses
-* While the math and Python sessions are optional if you feel you have enough background, I strongly advise you to take them anyway -- it's just a few hours of your time, and you may learn more than you think you will
+When you arrive at CBS, you will take the following three bootcamp courses:
+* Capital markets and investments (15 hours)
+* Python programming (9 hours)
+* Math (9 hours)
+* You are also responsible for taking the on-line Python coding class over the summer (we will provide information about this).
 
-Bootcamp courses:
+There is also a required block week in January prior to the start of the 2nd semester in which you will take:
 * Accounting (15 hours)
 * Corporate finance (15 hours)
-* Capital markets and investments (15 hours)
-* Python programming (12 hours)
-* Math (10 hours)
 
 ## Intreview prep
 Pretty soon after arriving to campus, you will start to interview for summer internships. In addition to shoring up your coding and math skills, we recommend that:
@@ -47,4 +47,8 @@ Pretty soon after arriving to campus, you will start to interview for summer int
 * In addition, you will be asked some technical questions in the early round of interviews. Some of these will involve coding and math. There are two useful books that will give you a sense of what to expect:
   * _A Practical Guide To Quantitative Finance Interviews_, Xinfeng Zhou (this is the *classic* book on the topic of quant interviews): https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662
   * _150 Most Frequently Asked Questions on Quant Interviews_, Dan Stefanica et al.: https://www.amazon.com/Frequently-Questions-Interviews-Second-Pocket/dp/097975769X
+* Finally, for practice with coding questions that you might see in interviews, we recommend the following two websites:
+  * https://leetcode.com
+  * https://www.hackerrank.com/
+* These are not required as the online Python course you will take and the boot camp will cover much of the material, but for those interested to have more practice, these sites will be useful.
   
