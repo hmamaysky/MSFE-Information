@@ -48,7 +48,7 @@ Pretty soon after arriving to campus, you will start to interview for summer int
   * _A Practical Guide To Quantitative Finance Interviews_, Xinfeng Zhou (this is the *classic* book on the topic of quant interviews): https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662
   * _150 Most Frequently Asked Questions on Quant Interviews_, Dan Stefanica et al.: https://www.amazon.com/Frequently-Questions-Interviews-Second-Pocket/dp/097975769X
 * Finally, for practice with coding questions that you might see in interviews, we recommend the following two websites:
-  * https://leetcode.com
+  * https://leetcode.com/
   * https://www.hackerrank.com/
 * These are not required as the online Python course you will take and the boot camp will cover much of the material, but for those interested to have more practice, these sites will be useful.
   
