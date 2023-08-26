@@ -32,7 +32,7 @@ Additional information:
 
 ## Bootcamp
 When you arrive at CBS, you will take the following three bootcamp courses:
-* Capital markets and investments (15 hours)
+* Capital markets and investments (12 hours)
 * Python programming (9 hours)
 * Math (9 hours)
 * You are also responsible for taking the on-line Python coding class over the summer (we will provide information about this).
