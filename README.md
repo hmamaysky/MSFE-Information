@@ -20,7 +20,7 @@ Other math background that will be useful (though is not required):
 * Probability theory
 * Ordinary and partial differential equations
 
-## Coding classes
+## Coding skills
 If your coding skills are not in line with the above description, consider taking the following courses (which consists of 4 modules) prior to your arrival:
 * Python basics: https://www.datacamp.com/courses/intro-to-python-for-data-science
 * Python for data science: https://www.datacamp.com/courses/introduction-to-data-science-in-python
@@ -28,7 +28,9 @@ If your coding skills are not in line with the above description, consider takin
 Additional information:
 * You will be able to access this via CBS sometime in early June (contact Dan Spacher to get login information)
 * You can also take other intro Python or R courses that are close to (or above) this in coverage
-* At the margin, you are probably better off learning Python, though both languages are excellent for the work you'll do in the MSFE (and knowing one well will make it much easier to learn the other)
+* You are better off learning Python first, and then using R for some of the things (there are a few) at which it's better than Python
+* In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers there tools:
+  * https://missing.csail.mit.edu
 
 ## Bootcamp
 When you arrive at CBS, you will take the following three bootcamp courses:
