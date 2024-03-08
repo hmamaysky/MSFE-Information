@@ -20,6 +20,9 @@ Other math background that will be useful (though is not required):
 * Probability theory
 * Ordinary and partial differential equations
 
+A nice introduction to the sort of math you will see in your first year is
+* _Mathematical Finance: Theory Review and Exercises_, Gianin and Sgarra: https://link.springer.com/book/10.1007/978-3-031-28378-9
+
 ## Coding skills
 If your coding skills are not in line with the above description, consider taking the following courses (which consists of 4 modules) prior to your arrival:
 * Python basics: https://www.datacamp.com/courses/intro-to-python-for-data-science
