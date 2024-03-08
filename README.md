@@ -32,8 +32,7 @@ Additional information:
 * You will be able to access this via CBS sometime in early June (contact Dan Spacher to get login information)
 * You can also take other intro Python or R courses that are close to (or above) this in coverage
 * You are better off learning Python first, and then using R for some of the things (there are a few) at which it's better than Python
-* In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers there tools:
-  * https://missing.csail.mit.edu
+* In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers these tools: https://missing.csail.mit.edu
 
 ## Bootcamp
 When you arrive at CBS, you will take the following three bootcamp courses:
