@@ -34,6 +34,11 @@ Additional information:
 * You are better off learning Python first, and then using R for some of the things (there are a few) at which it's better than Python
 * In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers these tools: https://missing.csail.mit.edu
 
+## Finance knowledge
+* You should regularly read the _Wall Street Journal_ and the _Financial Times_ and be able to speak intelligently in interviews about real-world events impacting markets and the economy
+* A very useful finance text book is _Investments_ by Bodie, Kane, and Marcus
+* A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
+
 ## Bootcamp
 When you arrive at CBS, you will take the following three bootcamp courses:
 * Capital markets and investments (12 hours)
