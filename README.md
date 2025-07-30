@@ -56,6 +56,9 @@ Pretty soon after arriving to campus, you will start to interview for summer int
 * In addition, you will be asked some technical questions in the early round of interviews. Some of these will involve coding and math. There are two useful books that will give you a sense of what to expect:
   * _A Practical Guide To Quantitative Finance Interviews_, Xinfeng Zhou (this is the *classic* book on the topic of quant interviews): https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662
   * _150 Most Frequently Asked Questions on Quant Interviews_, Dan Stefanica et al.: https://www.amazon.com/Frequently-Questions-Interviews-Second-Pocket/dp/097975769X
+* Two finance-specfic interview prep sites:
+  * https://www.quantfinanceprep.com/
+  * https://openquant.co/
 * Finally, for practice with coding questions that you might see in interviews, we recommend the following two websites:
   * https://leetcode.com/
   * https://www.hackerrank.com/
