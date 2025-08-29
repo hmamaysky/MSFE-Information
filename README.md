@@ -25,10 +25,12 @@ A nice introduction to the sort of math you will see in your first year is
 
 ## Coding skills
 If your coding skills are not in line with the above description, consider taking the following courses (which consists of 4 modules) prior to your arrival:
-* Python basics: https://www.datacamp.com/courses/intro-to-python-for-data-science
-* Python for data science: https://www.datacamp.com/courses/introduction-to-data-science-in-python
 * A good (but tough) C++ course: https://quantnet.com/cpp/
-* A good (but tought) Python course: https://quantnet.com/python/
+* A good (but tough) Python course: https://quantnet.com/python/
+* Two other Python courses:
+  * Python basics: https://www.datacamp.com/courses/intro-to-python-for-data-science
+  * Python for data science: https://www.datacamp.com/courses/introduction-to-data-science-in-python
+
 
 Additional information:
 * You will be able to access this via CBS sometime in early June (contact Dan Spacher to get login information)
