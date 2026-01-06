@@ -56,9 +56,9 @@ There is also a required block week in January prior to the start of the 2nd sem
 * Corporate finance (15 hours)
 
 ## Intreview prep
-Pretty soon after arriving to campus, you will start to interview for summer internships. In addition to shoring up your coding and math skills, we recommend that:
-* You keep on top of financial and economic news to demonstrate to employers that you know what is going on in the world. Two useful sources are the _Financial Times_ and the _Wall Street Journal_.
-* In addition, you will be asked some technical questions in the early round of interviews. Some of these will involve coding and math. There are two useful books that will give you a sense of what to expect:
+Pretty soon after arriving to campus, you will start to interview for summer internships. A few suggestions:
+* Keep on top of financial and economic news to demonstrate to employers that you know what is going on in the world. Two useful sources are the _Financial Times_ and the _Wall Street Journal_.
+* You will be asked some technical questions in the early round of interviews. Some of these will involve coding and math. There are two useful books that will give you a sense of what to expect:
   * _A Practical Guide To Quantitative Finance Interviews_, Xinfeng Zhou (this is the *classic* book on the topic of quant interviews): https://www.amazon.com/Practical-Guide-Quantitative-Finance-Interviews/dp/1438236662
   * _150 Most Frequently Asked Questions on Quant Interviews_, Dan Stefanica et al.: https://www.amazon.com/Frequently-Questions-Interviews-Second-Pocket/dp/097975769X
 * Two finance-specific interview prep sites:
@@ -67,5 +67,7 @@ Pretty soon after arriving to campus, you will start to interview for summer int
 * Finally, for practice with coding questions that you might see in interviews, we recommend the following two websites:
   * https://leetcode.com/
   * https://www.hackerrank.com/
-* These are not required as the online Python course you will take and the boot camp will cover much of the material, but for those interested to have more practice, these sites will be useful.
+* For math interview prep, these are useful:
+  * https://openquant.co/guide
+  * https://openquant.co/questions
   
