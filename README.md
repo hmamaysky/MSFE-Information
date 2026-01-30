@@ -70,4 +70,17 @@ Pretty soon after arriving to campus, you will start to interview for summer int
 * For math interview prep, these are useful:
   * https://openquant.co/guide
   * https://openquant.co/questions
+
+## Jobs sites
+* https://careers.cfainstitute.org
+* https://www.efinancialcareers.com/
+* https://fpajobboard.org/jobs/
+* https://www.glassdoor.com/index.htm
+* https://indeed.com
+* https://www.jobsdb.com/ (for HK, Singapore, and Thailand)
+* https://joinhandshake.com
+* https://linkedin.com
+* https://openquant.co
+* http://quantnet.com (less job-related, more all things MS in finance)
+
   
