@@ -40,7 +40,13 @@ Additional information:
 * In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers these tools: https://missing.csail.mit.edu
 
 ## Finance knowledge
-* You should regularly read the _Wall Street Journal_ and the _Financial Times_ and be able to speak intelligently in interviews about real-world events impacting markets and the economy
+* You should regularly read the _Wall Street Journal_ and the _Financial Times_ (and maybe _Bloomberg News_) and be able to speak intelligently in interviews about real-world events impacting markets and the economy
+  * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-b894-76ac46f45f72) 
+* Other sources of information that might be useful:
+  * Torsten Slok's (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
+  * Goldman Sach's Weekly Briefings email (https://www.goldmansachs.com/briefings)
+  * KKR's Insights (https://www.kkr.com/insights)
+  * Among others
 * A very useful finance text book is _Investments_ by Bodie, Kane, and Marcus
 * A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
 
