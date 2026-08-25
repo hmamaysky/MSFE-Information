@@ -46,6 +46,7 @@ Additional information:
   * Torsten Slok's (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
   * Goldman Sach's Weekly Briefings email (https://www.goldmansachs.com/briefings)
   * KKR's Insights (https://www.kkr.com/insights)
+  * Barclays The Eagle Eye newsletter (https://www.ib.barclays/research/the-eagle-eye.html)
   * Among others
 * A very useful finance text book is _Investments_ by Bodie, Kane, and Marcus
 * A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
