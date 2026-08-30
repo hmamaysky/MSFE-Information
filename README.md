@@ -45,6 +45,7 @@ Additional information:
 * Other sources of information that might be useful:
   * Torsten Slok's (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
   * Goldman Sach's Weekly Briefings email (https://www.goldmansachs.com/briefings)
+  * JPMorgan's Private Bank (https://privatebank.jpmorgan.com/nam/en/insights)
   * KKR's Insights (https://www.kkr.com/insights)
   * Barclays The Eagle Eye newsletter (https://www.ib.barclays/research/the-eagle-eye.html)
   * Among others
