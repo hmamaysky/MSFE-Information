@@ -49,6 +49,7 @@ Additional information:
   * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
   * JPMorgan's Private Bank (https://privatebank.jpmorgan.com/nam/en/insights)
   * KKR's Insights (https://www.kkr.com/insights)
+  * Morgan Stanley Insights (https://www.morganstanley.com/insights)
   * Among others
 * A very useful finance textbook is _Investments_ by Bodie, Kane, and Marcus
 * A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
