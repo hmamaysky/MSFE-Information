@@ -82,6 +82,14 @@ Pretty soon after arriving to campus, you will start to interview for summer int
   * https://openquant.co/guide
   * https://openquant.co/questions
 
+## Job search
+Once you are at CBS, make sure you make an appointment with the career people from CMC to review your job search strategy. The networking part of the strategy is very important. A few pieces of advice:
+* You should reach out to alumni career coaches through CMC.
+* There is a list of alumni ambassadors that you can access through CMC. Email them and ask for a call/Zoom/coffee chat.
+* There is also a broader list of CBS alumni that you can access through CMC and reach out to them as well.
+
+It's okay if the alums are not working in as "quanty" an area as you might be interested in. They can still give you good advice and make introductions to the right groups within the organizations.
+
 ## Jobs sites
 * https://careers.cfainstitute.org
 * https://www.efinancialcareers.com/
