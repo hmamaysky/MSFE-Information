@@ -47,6 +47,10 @@ Additional information:
     * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-
   * Torsten Slok (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
   * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
+* I also read several Substacks/blogs regularly:
+  * John Cochrane
+  * Victor Haghani (Elm Wealth)
+  * Hanno Lustig
 * Other sources of information that might be useful:
   * Barclays The Eagle Eye newsletter (https://www.ib.barclays/research/the-eagle-eye.html)
   * BlackRock Investment Institute (https://www.blackrock.com/us/individual/insights/blackrock-investment-institute)
