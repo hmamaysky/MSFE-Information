@@ -40,16 +40,20 @@ Additional information:
 * In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers these tools: https://missing.csail.mit.edu
 
 ## Finance knowledge
-* You should regularly read the _Wall Street Journal_ and the _Financial Times_ (and maybe _Bloomberg News_) and be able to speak intelligently in interviews about real-world events impacting markets and the economy
-  * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-b894-76ac46f45f72) 
+* You should regularly read about markets and the economy, and be able to speak intelligently in interviews about real-world events impacting markets and the economy
+  b894-76ac46f45f72) 
+* The industry publications I read most often:
+  * _Wall Street Journal_ and the _Financial Times_ (and maybe _Bloomberg News_)
+    * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-
+  * Torsten Slok (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
+  * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
 * Other sources of information that might be useful:
   * Barclays The Eagle Eye newsletter (https://www.ib.barclays/research/the-eagle-eye.html)
   * BlackRock Investment Institute (https://www.blackrock.com/us/individual/insights/blackrock-investment-institute)
-  * Torsten Slok (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
-  * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
   * JPMorgan's Private Bank (https://privatebank.jpmorgan.com/nam/en/insights)
-  * KKR's Insights (https://www.kkr.com/insights)
-  * Morgan Stanley Insights (https://www.morganstanley.com/insights)
+  * KKR's (https://www.kkr.com/insights)
+  * Morgan Stanley (https://www.morganstanley.com/insights)
+  * Vanguard (https://advisors.vanguard.com/insights/economy-markets)
   * Among others
 * A very useful finance textbook is _Investments_ by Bodie, Kane, and Marcus
 * A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
