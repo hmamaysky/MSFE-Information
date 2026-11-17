@@ -47,6 +47,7 @@ Additional information:
     * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-
   * Torsten Slok (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
   * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
+  * Ark Funds for technology news (https://www.ark-funds.com/subscribe-to-etf-updates)
 * I also read several Substacks/blogs regularly:
   * John Cochrane
   * Victor Haghani (Elm Wealth)
