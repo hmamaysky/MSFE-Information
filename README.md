@@ -8,6 +8,30 @@ Entering students to Columbia Business School's Master of Science in Financial E
   * the math bootcamp only has time to introduce these concepts, and does not go into detailed proofs or derivations
   * if some or all of this material feels foreign to you, that's okay, but try to study up before you get here
 
+## Finance knowledge
+* You should regularly read about markets and the economy, and be able to speak intelligently in interviews about real-world events impacting markets and the economy
+  b894-76ac46f45f72) 
+* The industry publications I read most often:
+  * _Wall Street Journal_ and the _Financial Times_ (and maybe _Bloomberg News_)
+    * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-
+  * Torsten Slok (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
+  * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
+  * Ark Funds for technology news (https://www.ark-funds.com/subscribe-to-etf-updates)
+* I also read several Substacks/blogs regularly:
+  * John Cochrane
+  * Victor Haghani (Elm Wealth)
+  * Hanno Lustig
+* Other sources of information that might be useful:
+  * Barclays The Eagle Eye newsletter (https://www.ib.barclays/research/the-eagle-eye.html)
+  * BlackRock Investment Institute (https://www.blackrock.com/us/individual/insights/blackrock-investment-institute)
+  * JPMorgan's Private Bank (https://privatebank.jpmorgan.com/nam/en/insights)
+  * KKR's (https://www.kkr.com/insights)
+  * Morgan Stanley (https://www.morganstanley.com/insights)
+  * Vanguard (https://advisors.vanguard.com/insights/economy-markets)
+  * Among others
+* A very useful finance textbook is _Investments_ by Bodie, Kane, and Marcus
+* A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
+
 ## Math skills
 The MSFE program is math intensive. At the very least, incoming students should be familiar with
 * Multivariable calculus
@@ -38,30 +62,6 @@ Additional information:
 * You can also take other intro Python or R courses that are close to (or above) this in coverage
 * You are better off learning Python first, and then using R for some of the things (there are a few) at which it's better than Python
 * In your work, you will use tools like Git, a good text editor for writing code, shell scripts, etc. There is a great course at MIT which covers these tools: https://missing.csail.mit.edu
-
-## Finance knowledge
-* You should regularly read about markets and the economy, and be able to speak intelligently in interviews about real-world events impacting markets and the economy
-  b894-76ac46f45f72) 
-* The industry publications I read most often:
-  * _Wall Street Journal_ and the _Financial Times_ (and maybe _Bloomberg News_)
-    * You may be able to access (some of) these through Columbia (https://blogs.library.columbia.edu/spotlights/2022/01/28/wall-street-journal-access/ and https://www.ft.com/barrier/corporate/cd6e603c-cdf8-491d-
-  * Torsten Slok (Apollo) Daily Spark email (https://www.apollo.com/wealth/insights-news/insights/daily-spark)
-  * Goldman Sachs Weekly Briefings email (https://www.goldmansachs.com/briefings)
-  * Ark Funds for technology news (https://www.ark-funds.com/subscribe-to-etf-updates)
-* I also read several Substacks/blogs regularly:
-  * John Cochrane
-  * Victor Haghani (Elm Wealth)
-  * Hanno Lustig
-* Other sources of information that might be useful:
-  * Barclays The Eagle Eye newsletter (https://www.ib.barclays/research/the-eagle-eye.html)
-  * BlackRock Investment Institute (https://www.blackrock.com/us/individual/insights/blackrock-investment-institute)
-  * JPMorgan's Private Bank (https://privatebank.jpmorgan.com/nam/en/insights)
-  * KKR's (https://www.kkr.com/insights)
-  * Morgan Stanley (https://www.morganstanley.com/insights)
-  * Vanguard (https://advisors.vanguard.com/insights/economy-markets)
-  * Among others
-* A very useful finance textbook is _Investments_ by Bodie, Kane, and Marcus
-* A classic book about market efficiency is _A Random Walk Down Wall Street_ by Burton Malkiel
 
 ## Bootcamp
 When you arrive at CBS, you will take the following three bootcamp courses:
